@@ -38,7 +38,7 @@ We have utilized several augmentation techniques to improve the model's performa
 ![Train Valid Accuracy](images/train_valid_Acc.jpg)
 
 ### Потери на объединенных тренировочных и валидационных данных
-![Train Valid Loss](images/train_valid_Loss.jpg)
+![Train Valid Loss](images/train_valid_loss.jpg)
 
 ### Точность на тренировочных данных
 ![Train Accuracy](images/train_Acc.jpg)
