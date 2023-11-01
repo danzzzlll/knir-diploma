@@ -12,6 +12,11 @@ We have utilized several augmentation techniques to improve the model's performa
 2. **Rotation**: Limited to 30 degrees with a probability of 0.3
 3. **Salt and Pepper**: Applied only to the pepper with a ratio of 0.0
 4. **Elastic Transform**: With parameters alpha=2, sigma=20, alpha_affine=10, and a probability of 0.4
+  ```python
+  HorizontalFlip(p=.3)
+  Rotate(limit=30, p=.3)
+  SaltAndPepper(salt_ratio=0.0)
+  ElasticTransform(alpha=2, sigma=20, alpha_affine=10, p=.4)
 
 ## Training Setup
 - **Optimizer**: AdamW
