@@ -32,4 +32,23 @@ We have utilized several augmentation techniques to improve the model's performa
   ```python
   torch.optim.lr_scheduler.StepLR(optimizer, step_size=6, gamma=0.6)
 
-## Results:
+## Results
+
+### Точность на объединенных тренировочных и валидационных данных
+![Train Valid Accuracy](images/train_valid_Acc.png)
+
+### Потери на объединенных тренировочных и валидационных данных
+![Train Valid Loss](images/train_valid_Loss.png)
+
+### Точность на тренировочных данных
+![Train Accuracy](images/train_Acc.png)
+
+### Потери на тренировочных данных
+![Train Loss](images/train_Loss.png)
+
+### Точность на валидационных данных
+![Validation Accuracy](images/valid_Acc.png)
+
+### Потери на валидационных данных
+![Validation Loss](images/valid_Loss.png)
+
