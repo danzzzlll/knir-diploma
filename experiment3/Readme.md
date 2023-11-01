@@ -15,7 +15,6 @@ We have utilized several augmentation techniques to improve the model's performa
   ```python
   HorizontalFlip(p=.3)
   Rotate(limit=30, p=.3)
-  SaltAndPepper(salt_ratio=0.0)
   ElasticTransform(alpha=2, sigma=20, alpha_affine=10, p=.4)
   ```
 
