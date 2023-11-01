@@ -35,20 +35,20 @@ We have utilized several augmentation techniques to improve the model's performa
 ## Results
 
 ### Точность на объединенных тренировочных и валидационных данных
-![Train Valid Accuracy](images/train_valid_Acc.png)
+![Train Valid Accuracy](images/train_valid_Acc.jpg)
 
 ### Потери на объединенных тренировочных и валидационных данных
-![Train Valid Loss](images/train_valid_Loss.png)
+![Train Valid Loss](images/train_valid_Loss.jpg)
 
 ### Точность на тренировочных данных
-![Train Accuracy](images/train_Acc.png)
+![Train Accuracy](images/train_Acc.jpg)
 
 ### Потери на тренировочных данных
-![Train Loss](images/train_Loss.png)
+![Train Loss](images/train_Loss.jpg)
 
 ### Точность на валидационных данных
-![Validation Accuracy](images/valid_Acc.png)
+![Validation Accuracy](images/valid_Acc.jpg)
 
 ### Потери на валидационных данных
-![Validation Loss](images/valid_Loss.png)
+![Validation Loss](images/valid_Loss.jpg)
 
