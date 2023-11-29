@@ -41,17 +41,11 @@ We have utilized several augmentation techniques to improve the model's performa
 ### Потери на объединенных тренировочных и валидационных данных
 ![Train Valid Loss](images/train_valid_Loss.jpg)
 
-### Точность на тренировочных данных
-![Train Accuracy](images/train_Acc.jpg)
+### Точность для полных картинок на тренировочных и валидационных данных
+![Train Valid Full Acc](images/train_valid_full_Acc.png)
 
-### Потери на тренировочных данных
-![Train Loss](images/train_Loss.jpg)
-
-### Точность на валидационных данных
-![Validation Accuracy](images/valid_Acc.jpg)
-
-### Потери на валидационных данных
-![Validation Loss](images/valid_Loss.jpg)
+### Зависимость качества на полных изображениях от качества на фрагментах
+![Valid Full Valid Frag](images/valid_full_valid_Acc.png)
 
 ## Notes:
 С нормализацией, без обрезания пикселей и без фильтров, с новым scheduler

@@ -55,3 +55,4 @@ We have utilized several augmentation techniques to improve the model's performa
 
 ## Notes:
 С нормализацией, без обрезания пикселей и без фильтров, с новым scheduler
+качество на тестовых данных - 66.837

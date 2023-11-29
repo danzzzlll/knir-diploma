@@ -57,4 +57,4 @@ We have utilized several augmentation techniques to improve the model's performa
 ## Notes:
 С нормализацией, без обрезания пикселей и без фильтров, с новым scheduler
 Аугментация - соль и перец
-Качество на полных изображениях - 68.4 (пока самое лучшее)
+Качество на полных изображениях - 68.4

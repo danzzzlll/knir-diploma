@@ -52,3 +52,5 @@ We have utilized several augmentation techniques to improve the model's performa
 ### Потери на валидационных данных
 ![Validation Loss](images/valid_Loss.jpg)
 
+## Notes:
+Качество на полных изображениях - 76.023
