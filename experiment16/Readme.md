@@ -1,6 +1,6 @@
 ## Configuration
 - **Architecture**: mobilenet-v2
-- **Epochs**: 20
+- **Epochs**: 30
 - **Fragments**: 9
 - **Batch Size**: 32
 - **Number of Classes**: 5
