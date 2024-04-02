@@ -34,19 +34,19 @@ We have utilized several augmentation techniques to improve the model's performa
 ## Results
 
 ### Accuracy train - valid:
-![Train Valid Accuracy](images/train - valid Acc.jpg)
+![Train Valid Accuracy](images/train-valid_Acc.jpg)
 
 ### Loss train - valid:
-![Train Valid Loss](images/train - valid Loss.jpg)
+![Train Valid Loss](images/train-valid_Loss.jpg)
 
 ### Full Acc - Acc train:
-![Train Valid Full Acc](images/train Full Acc - Acc.jpg)
+![Train Valid Full Acc](images/train_Full_Acc-Acc.jpg)
 
 ### Full Acc - Acc valid:
-![Valid Full Valid Frag](images/valid Acc - Full Acc.jpg)
+![Valid Full Valid Frag](images/valid_Acc-Full_Acc.jpg)
 
 ### Full Acc train - valid
-![Valid Full Valid Frag](images/train - valid Full Acc.jpg)
+![Valid Full Valid Frag](images/train-valid_Full_Acc.jpg)
 
 ## Notes:
 С нормализацией, без обрезания пикселей и без фильтров, с новым scheduler
