@@ -51,6 +51,7 @@ We have utilized several augmentation techniques to improve the model's performa
 ## Notes:
 С нормализацией, без обрезания пикселей и без фильтров, с новым scheduler
 Аугментация - соль + перец, размер изображений - 224x224
+Дообучение на kylberg dataset без аугментаций
 Accuracy train =  71.2
 Accuracy valid =  64.9
 Full Accuracy train =  79.8
