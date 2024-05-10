@@ -1,0 +1,3 @@
+Анализ устойчивости глубоких нейронных сетей для классификации текстурных изображений
+
+main_notebook содержит в себе все полный пример кода, для обучения и оценки устойчивости НС для набора изображений из статьи "Cryostructering of Polymeric Systems: Application of Deep Neural Networks for the Classification of Structural Features Peculiar to Macroporous Poly(vinyl alcohol) Cryogels Prepared without and with the Additives of Chaotropes or Kosmotropes". Данные были подготовлены ИНЭОС РАН группой профессора Лозинского.
